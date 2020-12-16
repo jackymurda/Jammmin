@@ -17,8 +17,21 @@ h1 {
   color: #fff;
 }
 
+h3 {
+  padding: .77rem 0;
+  background-color: #010c3f;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+  color: #fff;
+}
+
 h1 .highlight {
-  color: #6c41ec;
+  color: #a087eb;
+}
+
+h3 .highlight {
+  color: #a087eb;
 }
 
 h2 {
